@@ -1,0 +1,4 @@
+WKT,nid,parent_nid,name,serial,type,latitude,longitude,status
+"POINT (115.188916 -8.4095178)",17.0,0.0,Provinsi Bali,51.0,1.0,-8.4095178,115.188916,1.0
+"POINT (117.3616476 -8.6529334)",18.0,0.0,Provinsi Nusa Tenggara Barat,52.0,1.0,-8.6529334,117.3616476,1.0
+"POINT (121.0793705 -8.6573819)",19.0,0.0,Provinsi Nusa Tenggara Timur,53.0,1.0,-8.6573819,121.0793705,1.0
